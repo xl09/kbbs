@@ -53,7 +53,6 @@ export default {
     }
   },
   created () {
-    console.log(echarts)
   },
   async mounted () {
     // 在页面dom元素加载完毕之后执行的钩子函数mounted
